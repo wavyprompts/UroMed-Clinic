@@ -1,0 +1,6 @@
+{
+  "name": "UroMed Clinic - Urology Specialist Clinic Agra",
+  "description": "UroMed Clinic in Agra, Uttar Pradesh provides advanced urological diagnostics, laser kidney stone removal, prostate care, and specialized urology treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
